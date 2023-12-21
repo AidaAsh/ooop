@@ -77,3 +77,5 @@ print(s11.name)
 
 s11.set_obj('Бектур')
 print(s11.get_obj())
+
+print(dir(Student))
